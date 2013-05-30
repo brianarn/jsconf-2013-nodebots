@@ -1,0 +1,7 @@
+{
+	"name": "test-five",
+	"version": "0.0.1",
+	"dependencies": {
+		"johnny-five": "~0.6"
+	}
+}
