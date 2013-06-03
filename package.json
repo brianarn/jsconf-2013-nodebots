@@ -1,5 +1,5 @@
 {
-	"name": "test-five",
+	"name": "jsconf-2013-nodebots",
 	"version": "0.0.1",
 	"dependencies": {
 		"johnny-five": "~0.6"
