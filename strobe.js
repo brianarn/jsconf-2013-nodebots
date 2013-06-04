@@ -20,7 +20,6 @@ board.on('ready', function(){
 		pot: potentiometer
 	});
 
-
 	potentiometer.on('read', function(err, value){
 		//console.log(value, this.normalized);
 		if (value < frequency - 5 || value > frequency + 5) {
